@@ -1,0 +1,6 @@
+Script was created using NodeJS. 
+
+Selenium and protractor was used. 
+
+To initiate script, command "protractor conf.js" was entered.
+Script was started and answer was given - "5".
